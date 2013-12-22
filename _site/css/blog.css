@@ -1,0 +1,15 @@
+.navbar-inverse .navbar-inner {
+    background-color: #555555;
+    background-image: linear-gradient(to bottom, #B3CA88, #908D6A);
+    background-repeat: repeat-x;
+    border-color: #FFFFFF;
+}
+
+.navbar .container {
+    width: 1170px;
+}
+
+.navbar-inverse .brand, .navbar-inverse .nav > li > a {
+    color: #000000;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.05);
+}

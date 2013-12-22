@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+	<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+		<channel>
+			<title>Dimitris gh-pages-blog</title>
+			<link></link>
+			<description>The Official Dimitris Page</description>
+			<language>en-us</language>
+			<pubDate>Sun, 22 Dec 2013 00:01:29 Pacific Standard Time</pubDate>
+			<lastBuildDate>Sun, 22 Dec 2013 00:01:29 Pacific Standard Time</lastBuildDate>
+			<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+			<generator>http://github.com/thedereck/gh-pages-blog</generator>
+			<atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
+
+			
+
+			
+
+			
+				<ttl>300</ttl>
+			
+
+			
+				<image>
+					<link></link>
+					<title>Dimitris gh-pages-blog</title>
+					<url>http://www.gravatar.com/avatar/0f08df91055f27.png?s=200</url>
+				</image>
+			
+
+			
+				<item>
+					
+						<title>Hello, world!</title>
+					
+					<link>/2013/03/03/hello-world.html</link>
+
+					
+
+					<pubDate>Sun, 03 Mar 2013 00:00:00 Pacific Standard Time</pubDate>
+					<guid>/2013/03/03/hello-world</guid>
+
+					
+
+					<description><![CDATA[  ]]></description>
+					<content:encoded><![CDATA[ <h4></h4><p>Hello, world!</p> ]]></content:encoded>
+				</item>
+			
+
+		</channel>
+	</rss>
