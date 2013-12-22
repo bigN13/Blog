@@ -13,3 +13,25 @@
     color: #000000;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.05);
 }
+
+h1 {
+    font: 48px Georgia,Utopia,'Palatino Linotype',Palatino,serif;
+}
+
+.Header .description {
+    color: #908D6A;
+    font: 20px Georgia,Utopia,'Palatino Linotype',Palatino,serif;
+}
+
+.ghpb-well-outline,  .ghpb-well-navlist, .well{
+    background-color: #FEFDFA;
+    border: 1px solid #AAB123;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    margin: 20px -16px;
+    padding: 0 15px 15px;
+}
+
+.navbar {
+    margin-top: 10px;
+}
