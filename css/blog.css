@@ -1,12 +1,5 @@
-.navbar-inverse .navbar-inner {
-    background-color: #555555;
-    background-image: linear-gradient(to bottom, #B3CA88, #908D6A);
-    background-repeat: repeat-x;
-    border-color: #FFFFFF;
-}
-
-.navbar .container {
-    width: 1170px;
+.navbar-fixed-top {
+    background-color: #B3CA88;
 }
 
 .navbar-inverse .brand, .navbar-inverse .nav > li > a {
@@ -15,6 +8,7 @@
 }
 
 h1 {
+    color: #B3CA88;
     font: 48px Georgia,Utopia,'Palatino Linotype',Palatino,serif;
 }
 
@@ -24,14 +18,43 @@ h1 {
 }
 
 .ghpb-well-outline,  .ghpb-well-navlist, .well{
-    background-color: #FEFDFA;
+    /*background-color: #FEFDFA;
     border: 1px solid #AAB123;
     border-radius: 5px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
     margin: 20px -16px;
-    padding: 0 15px 15px;
+    padding: 0 15px 15px;*/
+}
+
+.span3 .well {
+	border: 1px solid #B3CA88;
+    background-color: #E0EBCD;
+    /*border: 1px solid #E3E3E3;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset;
+    margin-bottom: 20px;
+    min-height: 20px;
+    padding: 19px;*/
+}
+
+.well {
+	border: 1px solid #B3CA88;
+}
+
+h2 a {
+    color: #B3CA88;
 }
 
 .navbar {
-    margin-top: 10px;
+    border: 1px solid rgba(0, 0, 0, 0);
+    margin-bottom: 21px;
+    position: relative;
+}
+
+.navbar .nav > li > a {
+    text-shadow: 0 0.5px 0 #999999;
+}
+
+.navbar .brand {
+    text-shadow: 0 0.5px 0 #999999;
 }
